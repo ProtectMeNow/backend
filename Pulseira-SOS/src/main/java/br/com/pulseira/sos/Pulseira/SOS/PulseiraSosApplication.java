@@ -9,5 +9,4 @@ public class PulseiraSosApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PulseiraSosApplication.class, args);
 	}
-
 }
